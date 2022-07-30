@@ -57,7 +57,7 @@ fg.is_on('BAR', {'user_id': 123, 'company_slug': 'acme'})
 See full [examples](examples)
 
 [pyref]: https://pypi.org/project/featureguards/
-[issues]: https://github.com/featureguards/featureguards-py/issues/new
-[pulls]: https://github.com/featureguards/featureguards-py/pulls
-[examples]: https://github.com/featureguards/featureguards-py/blob/main/examples/featureflags.py
+[issues]: https://github.com/featureguards/featureguards-python/issues/new
+[pulls]: https://github.com/featureguards/featureguards-python/pulls
+[examples]: https://github.com/featureguards/featureguards-python/blob/main/examples/featureflags.py
 [featureguards]: https://featureguards.com
