@@ -28,7 +28,7 @@ documentation][pyref].
 
 Below are a few simple examples:
 
-### `is_on`
+### is_on
 
 ```python
 
